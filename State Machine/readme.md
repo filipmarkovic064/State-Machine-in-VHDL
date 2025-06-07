@@ -1,12 +1,5 @@
 
 # Modules in a system, State Machine design and synchronization
-**Oblig 8**
-
-**IN3160/4160 Version 2025-01**
-
-> [!NOTE]  
-> Read all parts _before_ starting to code!.
->
 
 ### Task description
 [Introduction](intro.md)
