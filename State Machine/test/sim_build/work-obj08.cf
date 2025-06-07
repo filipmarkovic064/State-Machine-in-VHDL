@@ -1,0 +1,28 @@
+v 4
+file / "/uio/hume/student-u50/filipmar/Documents/in3160_obliger/assignments-main/O08/test/../src/input_synchronizer.vhd" "30552113741c0d9ec3958b7403c9017ae4ae7bbc" "20250404141426.827":
+  entity input_synchronizer at 1( 0) + 0 on 13;
+  architecture rtl of input_synchronizer at 16( 322) + 0 on 14;
+file / "/uio/hume/student-u50/filipmar/Documents/in3160_obliger/assignments-main/O08/test/../src/output_synchronizer.vhd" "a9f14de5816a433e47500486f0e2138c7fc584f7" "20250404141426.827":
+  entity output_synchronizer at 1( 0) + 0 on 27;
+  architecture rtl of output_synchronizer at 14( 337) + 0 on 28;
+file / "/uio/hume/student-u50/filipmar/Documents/in3160_obliger/assignments-main/O08/test/../src/pwm.vhd" "a5e424349fea48d7bd444b50b3612ba2290716c2" "20250404141426.827":
+  entity pwm at 1( 0) + 0 on 25;
+  architecture asm of pwm at 33( 351) + 0 on 26;
+file / "/uio/hume/student-u50/filipmar/Documents/in3160_obliger/assignments-main/O08/test/../src/quadrature_encoder.vhd" "81da00acc54156cd165a500314e5b9cc9bc56168" "20250404141426.827":
+  entity quadrature_decoder at 1( 0) + 0 on 15;
+  architecture behavioral of quadrature_decoder at 17( 553) + 0 on 16;
+file / "/uio/hume/student-u50/filipmar/Documents/in3160_obliger/assignments-main/O08/test/../src/seg7ctrl.vhd" "3ea3afea724e28d5ab58f98ad33be2c7144ab462" "20250404141426.827":
+  entity seg7ctrl at 1( 0) + 0 on 21;
+  architecture behavioral of seg7ctrl at 18( 498) + 0 on 22;
+file / "/uio/hume/student-u50/filipmar/Documents/in3160_obliger/assignments-main/O08/test/../src/seg7_pkg.vhd" "329d4dce58e5f14a969510d1e4f3a5c934a3a209" "20250404141426.827":
+  package seg7_pkg at 1( 0) + 0 on 19 body;
+  package body seg7_pkg at 10( 288) + 0 on 20;
+file / "/uio/hume/student-u50/filipmar/Documents/in3160_obliger/assignments-main/O08/test/../src/self_test_module.vhd" "c6d8d4754d9ca5f86ca655b0257598a7e8a736f4" "20250404141426.827":
+  entity self_test_module at 1( 0) + 0 on 23;
+  architecture synth of self_test_module at 17( 486) + 0 on 24;
+file / "/uio/hume/student-u50/filipmar/Documents/in3160_obliger/assignments-main/O08/test/../src/top_level_system.vhd" "e624aaad6c5f759e9bcff49c59894188e9e2da3f" "20250404141426.827":
+  entity top_level_system at 1( 0) + 0 on 11;
+  architecture rtl of top_level_system at 20( 457) + 0 on 12;
+file / "/uio/hume/student-u50/filipmar/Documents/in3160_obliger/assignments-main/O08/test/../src/velocity_reader.vhd" "7bd30bce05305422da5d9722b6afa76b716ed1eb" "20250404141426.827":
+  entity velocity_reader at 1( 0) + 0 on 17;
+  architecture rtl of velocity_reader at 20( 666) + 0 on 18;
